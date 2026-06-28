@@ -1,4 +1,4 @@
-# 
+# 终极 SQL Server Management Studio 扩展 Mac OS版 | VIP SQL Server Management Studio 扩展 PC Windows版。集成 暂存管理 和 自动格式化，跨平台性能最大化。
 
 
 
